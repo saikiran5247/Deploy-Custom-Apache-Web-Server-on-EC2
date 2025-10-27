@@ -88,3 +88,14 @@ systemctl restart httpd
 2. Copy the **Public IPv4 Address**.  
 3. Open a web browser and go to `http://<your-public-ip>`.  
 4. You should see your custom webpage! 🎉  
+
+## Technologies Used
+- AWS EC2
+- Amazon Linux 2023
+- Apache (HTTPD)
+- Bash / Shell Scripting
+- HTML & CSS
+
+Below is the actual output of the custom Apache web server running on the EC2 instance:
+
+<img width="1919" height="1197" alt="image" src="https://github.com/user-attachments/assets/0d0fdf61-de94-486a-8468-73f2f690d753" />
